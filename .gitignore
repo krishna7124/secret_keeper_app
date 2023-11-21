@@ -1,0 +1,30 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyo
+*.pyc
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+
+# Compiled files
+*.pyc
+
+# Project-specific
+data/
+
+# Project Documentation
+README.md
+LICENSE
+
+# Dependencies
+requirements.txt
