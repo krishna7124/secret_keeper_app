@@ -34,7 +34,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/bhatt-krishna/)
+- [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/bhatt-krishna-b077691b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 - [Instagram](https://www.instagram.com/thekrishnabhatt/)
 - [GitHub](https://github.com/krishna7124/)
 
